@@ -12,7 +12,7 @@ int main() {
 
     float Literature,mathematics,socialsciences,science,score;
 
-    printf("Enter your Turkish correct answers:");
+    printf("Enter your Literature correct answers:");
     scanf("%f", &Literature);
 
     printf("Enter your Mathematics correct answers:");
